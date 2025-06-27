@@ -1,5 +1,5 @@
-google-api-python-client>=2.0.0
-streamlit
-wordcloud
-pandas
-matplotlib
+google-api-python-client==2.108.0
+streamlit==1.32.0
+wordcloud==1.9.3
+pandas==2.1.4
+matplotlib==3.8.2
