@@ -44,7 +44,7 @@ def generate_wordcloud(text):
     st.pyplot(fig)
 
 # Sua API Key
-API_KEY = "AIzaSyAziHDNILJUujR7rt-tZq4V1QUsX-iaZI8"
+API_KEY = "AIzaSyAuXaVvnCS74quKwkEPNxIZFIah2HQei1E"
 
 st.title("🔍 Nuvem de Palavras - Comentários do YouTube")
 query = st.text_input("Digite um termo para busca (ex: música brasileira):")
