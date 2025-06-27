@@ -8,7 +8,7 @@ Original file is located at
 """
 
 streamlit
-google-api-python-client
+google-api-python-client==2.121.0
 wordcloud
 pandas
 matplotlib
